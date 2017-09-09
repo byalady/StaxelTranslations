@@ -33,7 +33,7 @@ staxel.tile.creepy.PurpleGrassLayer.2.description=Dieses Gras ist lila... wie gr
 //[Reference] 'Long Purple Grass Block'
 staxel.tile.creepy.PurpleGrassLayer.2.name=Langes Lila Gras-Block
 //[Reference] 'Good, rich soil. Perfect for crop growing.'
-staxel.tile.dirt.Dirt.description=Nährstoffreicher Boden. Perfekt zum beackern.
+staxel.tile.dirt.Dirt.description=Guter, nährstoffreicher Boden. Perfekt für den Pflanzenanbau.
 //[Reference] 'Dirt Block'
 staxel.tile.dirt.Dirt.name=Erd Block
 //[Reference] 'This dirt block is tilled, ready for crops!'
@@ -49,7 +49,7 @@ staxel.tile.dirt.DirtBorder2.description=Erd-Block-Rand
 //[Reference] 'Dirt Border'
 staxel.tile.dirt.DirtBorder2.name=Erd-Rand
 //[Reference] 'A flooring perfect for basements, dungeons or just about any underground building.'
-staxel.tile.dungeon.Dungeon1.description=Der perfekte Boden für jeden Keller, jeder Verlies und jede Untergrundstruktur.
+staxel.tile.dungeon.Dungeon1.description=Der perfekte Boden für jeden Keller, jedes Verlies und jede Untergrundstruktur.
 //[Reference] 'Dungeon Floor'
 staxel.tile.dungeon.Dungeon1.name=Verliesboden
 //[Reference] 'A neat, sturdy, stone block.'
@@ -75,7 +75,7 @@ staxel.tile.fairyVillage.FairyGrassLayer.1.name=Pinker Feengras-Block
 //[Reference] 'Grass grown in the fairy biome. Very soft, pretty and magical!'
 staxel.tile.fairyVillage.FairyGrassLayer.2.description=Gras aus dem Feen-Biom. Schön, weich und magisch!
 //[Reference] 'Long Pink Fairy Grass Block'
-staxel.tile.fairyVillage.FairyGrassLayer.2.name=Langes Pinkes Feengras-Block
+staxel.tile.fairyVillage.FairyGrassLayer.2.name=Langer, pinker Feengras-Block
 staxel.tile.grass.ForestGrassLayer.1.description=
 //[Reference] 'Forest Grass Block'
 staxel.tile.grass.ForestGrassLayer.1.name=Waldgras-Block
@@ -112,7 +112,7 @@ staxel.tile.happyBlocks.brick.BrownBrick.description=
 staxel.tile.happyBlocks.brick.BrownBrick.name=Brauner Ziegel-Block
 staxel.tile.happyBlocks.brick.CreamBrick.description=
 //[Reference] 'Cream Brick Block'
-staxel.tile.happyBlocks.brick.CreamBrick.name=Cremer Ziegel-Block
+staxel.tile.happyBlocks.brick.CreamBrick.name=Cremfarbener Ziegel-Block
 staxel.tile.happyBlocks.brick.GreenBrick.description=
 //[Reference] 'Green Brick Block'
 staxel.tile.happyBlocks.brick.GreenBrick.name=Grüner Ziegel-Block
@@ -243,35 +243,35 @@ staxel.tile.happyBlocks.wood.YellowWood.description=
 //[Reference] 'Yellow Wood Block'
 staxel.tile.happyBlocks.wood.YellowWood.name=Gelber Holz-Block
 //[Reference] 'Healthy, bright green leaves.'
-staxel.tile.leaves.Leaf.1.description=Gesunde, hellgrüne Bletter.
+staxel.tile.leaves.Leaf.1.description=Gesunde, hellgrüne Blätter.
 //[Reference] 'Green Leaf Block'
 staxel.tile.leaves.Leaf.1.name=Grüne Blätter-Block
 //[Reference] 'Healthy, bright green leaves.'
-staxel.tile.leaves.Leaf.2.description=Gesunde, hellgrüne Bletter.
+staxel.tile.leaves.Leaf.2.description=Gesunde, hellgrüne Blätter.
 //[Reference] 'Green Leaf Block'
 staxel.tile.leaves.Leaf.2.name=Grüne Blätter-Block
 //[Reference] 'Healthy, bright green leaves.'
-staxel.tile.leaves.Leaf.3.description=Gesunde, hellgrüne Bletter.
+staxel.tile.leaves.Leaf.3.description=Gesunde, hellgrüne Blätter.
 //[Reference] 'Green Leaf Block'
 staxel.tile.leaves.Leaf.3.name=Grüne Blätter-Block
 //[Reference] 'Healthy, bright green leaves.'
-staxel.tile.leaves.Leaf.4.description=Gesunde, hellgrüne Bletter.
+staxel.tile.leaves.Leaf.4.description=Gesunde, hellgrüne Blätter.
 //[Reference] 'Green Leaf Block'
 staxel.tile.leaves.Leaf.4.name=Grüne Blätter-Block
 //[Reference] 'Healthy, bright green leaves.'
-staxel.tile.leaves.Leaf.5.description=Gesunde, hellgrüne Bletter.
+staxel.tile.leaves.Leaf.5.description=Gesunde, hellgrüne Blätter.
 //[Reference] 'Green Leaf Block'
 staxel.tile.leaves.Leaf.5.name=Grüne Blätter-Block
 //[Reference] 'Healthy, bright green leaves.'
-staxel.tile.leaves.Leaf.6.description=Gesunde, hellgrüne Bletter.
+staxel.tile.leaves.Leaf.6.description=Gesunde, hellgrüne Blätter.
 //[Reference] 'Green Leaf Block'
 staxel.tile.leaves.Leaf.6.name=Grüne Blätter-Block
 //[Reference] 'Healthy, bright green leaves.'
-staxel.tile.leaves.Leaf.7.description=Gesunde, hellgrüne Bletter.
+staxel.tile.leaves.Leaf.7.description=Gesunde, hellgrüne Blätter.
 //[Reference] 'Green Leaf Block'
 staxel.tile.leaves.Leaf.7.name=Grüne Blätter-Block
 //[Reference] 'Leaves grown in the fairy biome. Soft pink leaves!'
-staxel.tile.leaves.Leaf.Fairy.description=Blätter aus dem Feen-Biom. Weiche, grüne Blätter!
+staxel.tile.leaves.Leaf.Fairy.description=Blätter aus dem Feen-Biom. Weiche, pinke Blätter!
 //[Reference] 'Pink Fairy Leaf Block'
 staxel.tile.leaves.Leaf.Fairy.name=Pinke Feenblätter-Blocker
 staxel.tile.leaves.Leaf.Forest.description=
@@ -306,7 +306,7 @@ staxel.tile.lighthouse.LighthouseLamp.description=Ein weißer Block mit Diamente
 //[Reference] 'White Brick Block'
 staxel.tile.lighthouse.LighthouseLamp.name=Weißer Ziegel-Block
 //[Reference] 'An obsolete item.'
-staxel.tile.lighthouse.LighthouseTree.description=Ein veraltetes Item.
+staxel.tile.lighthouse.LighthouseTree.description=Ein veralteter Gegenstand.
 //[Reference] 'Tree'
 staxel.tile.lighthouse.LighthouseTree.name=Baum
 //[Reference] 'A solid metal block'
@@ -343,7 +343,7 @@ staxel.tile.newVillage.Homebrick.description=Ein weißer Ziegel-Block.
 //[Reference] 'White Brick Block'
 staxel.tile.newVillage.Homebrick.name=Weißer Ziegel-Block
 //[Reference] 'Quality wooden flooring. Made from a light brown wood.'
-staxel.tile.newVillage.IndoorFlooring.description=Qualitäts Holzboden. Aus leichten, braunen Holz hergestellt.
+staxel.tile.newVillage.IndoorFlooring.description=Qualitäts Holzboden. Aus leichtem, braunen Holz hergestellt.
 //[Reference] 'Wooden Plank Flooring'
 staxel.tile.newVillage.IndoorFlooring.name=Pakett
 //[Reference] 'A block made from light wooden planks.'
@@ -363,7 +363,7 @@ staxel.tile.newVillage.PinkCarpet.description=Extrem saumig und weich. Es sieht 
 //[Reference] 'Pink Carpet Flooring'
 staxel.tile.newVillage.PinkCarpet.name=Pinker Teppichboden
 //[Reference] 'A very rough stone pathway which has a rustic charm to it. Great for the outdoors!'
-staxel.tile.newVillage.RoughStonePathway.description=Ein sehr grober Gehweg aus Stein. Der rustikale Stil ist perfekt für vor die Tür!
+staxel.tile.newVillage.RoughStonePathway.description=Ein sehr grober Gehweg aus Stein. Der rustikale Stil ist perfekt für draußen!
 //[Reference] 'Rough Stone Pathway'
 staxel.tile.newVillage.RoughStonePathway.name=Grober Stein-Weg
 //[Reference] 'A crude looking brick block.'
@@ -383,11 +383,11 @@ staxel.tile.newVillage.ShopWall2.description=
 //[Reference] 'Light Blue Shop Wall'
 staxel.tile.newVillage.ShopWall2.name=Hellblaue Geschäfts-Wand
 //[Reference] 'Thatch makes for a great roof!'
-staxel.tile.newVillage.ThatchBlock.description=Wie gemacht für ein Dauch aus Stroh!
+staxel.tile.newVillage.ThatchBlock.description=Wie gemacht für ein Dach aus Stroh!
 //[Reference] 'Thatch Block'
 staxel.tile.newVillage.ThatchBlock.name=Stroh-Block
 //[Reference] 'A thick wooden beam block. A great way to add a touch of coziness to a structure'
-staxel.tile.newVillage.WoodBeamTile.description=Ein solider Holzbalken. Perfekt um ein Gefühl der Gemütlichkeit zu vermitteln.
+staxel.tile.newVillage.WoodBeamTile.description=Ein solider Holzbalken. Perfekt, um ein Gefühl der Gemütlichkeit zu vermitteln.
 //[Reference] 'Wooden Beam Block'
 staxel.tile.newVillage.WoodBeamTile.name=Holzbalken-Block
 //[Reference] 'A good wooden block to use both outdoors and in!'
@@ -454,34 +454,34 @@ staxel.tile.retrotest.water.description=Ein Block aus Flüssigkeit...?
 //[Reference] 'Water Block'
 staxel.tile.retrotest.water.name=Wasser-Block
 //[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
-staxel.tile.rock.Rock.1.description=Ein solider Stein-Block. Wird normalerweise in kleiner Teile gehackt.
+staxel.tile.rock.Rock.1.description=Ein solider Stein-Block. Wird normalerweise in kleine Teile gehackt.
 //[Reference] 'Stone Block'
 staxel.tile.rock.Rock.1.name=Stein-Block
 //[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
-staxel.tile.rock.Rock.2.description=Ein solider Stein-Block. Wird normalerweise in kleiner Teile gehackt.
+staxel.tile.rock.Rock.2.description=Ein solider Stein-Block. Wird normalerweise in kleine Teile gehackt.
 //[Reference] 'Stone Block'
 staxel.tile.rock.Rock.2.name=Stein-Block
 //[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
-staxel.tile.rock.Rock.3.description=Ein solider Stein-Block. Wird normalerweise in kleiner Teile gehackt.
+staxel.tile.rock.Rock.3.description=Ein solider Stein-Block. Wird normalerweise in kleine Teile gehackt.
 //[Reference] 'Stone Block'
 staxel.tile.rock.Rock.3.name=Stein-Block
 //[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
-staxel.tile.rock.Rock.4.description=Ein solider Stein-Block. Wird normalerweise in kleiner Teile gehackt.
+staxel.tile.rock.Rock.4.description=Ein solider Stein-Block. Wird normalerweise in kleine Teile gehackt.
 //[Reference] 'Stone Block'
 staxel.tile.rock.Rock.4.name=Stein-Block
 //[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
-staxel.tile.rock.Rock.5.description=Ein solider Stein-Block. Wird normalerweise in kleiner Teile gehackt.
+staxel.tile.rock.Rock.5.description=Ein solider Stein-Block. Wird normalerweise in kleine Teile gehackt.
 //[Reference] 'Mossy Stone Block'
 staxel.tile.rock.Rock.5.name=Vermooster Stein-Block
 staxel.tile.rock.Rock.snow.1.description=
 //[Reference] 'Snow Covered Stone Block'
 staxel.tile.rock.Rock.snow.1.name=Schneebedeckter Stein-Block
 //[Reference] 'This block is made up of a very fine sand.'
-staxel.tile.sand.Sand.beach.description=Dieser Block ist aus feinsten Sand.
+staxel.tile.sand.Sand.beach.description=Dieser Block ist aus feinstem Sand.
 //[Reference] 'Sand Block'
 staxel.tile.sand.Sand.beach.name=Sand-Block
 //[Reference] 'This block is made up of a very fine sand.'
-staxel.tile.sand.Sand.desert.description=Dieser Block ist aus feinsten Sand.
+staxel.tile.sand.Sand.desert.description=Dieser Block ist aus feinstem Sand.
 //[Reference] 'Sand Block'
 staxel.tile.sand.Sand.desert.name=Sand-Block
 staxel.tile.Sky.description=
@@ -496,9 +496,9 @@ staxel.tile.temple.BasicWood.description=Kann in Holz-Meterial zerhackt werden.
 //[Reference] 'Wood Block'
 staxel.tile.temple.BasicWood.name=Holz-Block
 //[Reference] 'White stone brick. Seems to be very old!'
-staxel.tile.temple.Brick.description=Weißer Ziegelstein. Scheint echt alt!
+staxel.tile.temple.Brick.description=Weißer Ziegelstein. Scheint sehr alt zu sein!
 //[Reference] 'White stone brick which is overgrown with moss. Looks to be incredibly old.'
-staxel.tile.temple.Brick.mossy.description=Übermooster weißer Ziegelstein. Scheint unglaublich alt!
+staxel.tile.temple.Brick.mossy.description=Übermooster weißer Ziegelstein. Er muss unglaublich alt sein!
 //[Reference] 'Mossy White Aztec Brick Block'
 staxel.tile.temple.Brick.mossy.name=Vermooster Weißer Azteken Ziegel-Block
 //[Reference] 'White Aztec Brick Block'
